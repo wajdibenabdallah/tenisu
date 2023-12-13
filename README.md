@@ -1,4 +1,4 @@
-** Etapes à suivre: **
+**Etapes à suivre:**
 1. Installer le projet: npm install
 2. Lancer l'application: npm start
 3. Vous pouvez utiliser le postman pour tester
